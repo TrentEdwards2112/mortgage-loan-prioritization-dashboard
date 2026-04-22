@@ -3,6 +3,8 @@
 ## Live Dashboard
 Tableau Public: https://public.tableau.com/views/MortgageLoanPipelineRiskPrioritizationDashboard/Dashboard1
 
+![Dashboard Preview](dashboard.png)
+
 ---
 
 ## Overview
