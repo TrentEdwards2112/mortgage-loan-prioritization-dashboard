@@ -34,5 +34,5 @@ Provide a clear, actionable view of pipeline risk and prioritization to support 
 ---
 
 ## Tools Used
-- SQL (MySQL)
-- Tableau Public
+- SQL (MySQL)  
+- Tableau Public  
