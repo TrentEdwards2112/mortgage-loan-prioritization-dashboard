@@ -35,4 +35,39 @@ Provide a clear, actionable view of pipeline risk and prioritization to support 
 
 ## Tools Used
 - SQL (MySQL)  
-- Tableau Public  
+- Tableau Public
+
+---
+
+## Version 2: Pipeline Bottleneck Analysis Extension
+
+### Objective
+
+Investigate whether Medium-tier loan aging reflected a true operational bottleneck or normal late-stage pipeline accumulation.
+
+### Key Findings
+
+- Medium-tier loans initially appeared to represent the primary bottleneck due to higher aging and loan volume.
+- Stage-level analysis showed aging was concentrated in Clear to Close and Closing Scheduled stages.
+- Findings suggested much of the accumulation reflected normal late-stage progression near completion rather than operational delay.
+
+### Analytical Insight
+
+Deeper drill-down analysis changed the original interpretation of the pipeline data. While Medium-tier loans appeared operationally problematic at a surface level, stage-level analysis indicated that much of the aging occurred near the end of the loan lifecycle, suggesting normal pipeline accumulation rather than a true workflow bottleneck.
+
+### Skills Demonstrated
+
+- SQL aggregation and drill-down analysis
+- Tableau dashboard storytelling
+- Operational workflow analysis
+- Analytical interpretation and refinement
+- Business process investigation
+
+### Tableau Public
+
+[View the Pipeline Bottleneck Analysis Extension on Tableau Public](https://public.tableau.com/views/PipelineBottleneckAnalysisExtensionStudy/PipelineBottleneckAnalysis)
+
+### Dashboard Screenshot
+
+![Pipeline Bottleneck Analysis Extension](images/pipeline_bottleneck_analysis_v2.png)
+
