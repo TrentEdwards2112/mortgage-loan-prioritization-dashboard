@@ -69,5 +69,5 @@ Deeper drill-down analysis changed the original interpretation of the pipeline d
 
 ### Dashboard Screenshot
 
-![Pipeline Bottleneck Analysis Extension](images/pipeline_bottleneck_analysis_v2.png)
+![Pipeline Bottleneck Analysis Extension](images/Pipeline_Bottleneck_Analysis.png)
 
